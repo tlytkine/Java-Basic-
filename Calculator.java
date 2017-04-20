@@ -25,7 +25,7 @@ System.out.println("Enter the first digit you would like to perform an operation
 int x = scnr.nextInt();
 System.out.println("Enter the second digit you would like to perform an operation on.");
 int y = scnr.nextInt();
-System.out.println("Enter a number 1-4 to select which operation you would like to perform.");
+System.out.println("Enter a number from 1-4 to select which operation you would like to perform.");
 System.out.println("1: Multiplication, 2: Division, 3: Addition, 4: Subtraction");
 int z = scnr.nextInt();
 if(int z==1){
